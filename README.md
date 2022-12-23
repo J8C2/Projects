@@ -6,4 +6,5 @@ Project 4: Constructed a specified ethereum block chain as well as making transa
 
 Project 5: Used JavaFX / ChartFree Library to implement 3 different types of graphs (bar, line, pie) to display data and to vastly manipulate them when needed. 
 
+Lab 7: Created a game of blackJack and used different classes to help assist in this process
 
